@@ -1,5 +1,5 @@
 {
-  "name": "team-c-uno",
+  "name": "Uno",
   "version": "1.0.0",
   "description": "CSC 667 Term Project",
   "type": "module",
@@ -17,7 +17,7 @@
     "prepare": "husky install"
   },
   "keywords": [],
-  "author": "",
+  "author": "CSC667 - Team C",
   "license": "ISC",
   "dependencies": {
     "@dicebear/collection": "^8.0.1",
